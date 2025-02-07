@@ -11,7 +11,7 @@ The script simulates the process of converting sets of three minor essences into
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/SwattyX/poe2-essence-simulations.git](https://www.google.com/search?q=https://github.com/SwattyX/poe2-essence-simulations.git)
+    git clone https://github.com/SwattyX/poe2-essence-simulations.git
     ```
 
 2.  **Navigate to the directory:**
